@@ -1,1 +1,1 @@
-# MachineLearning-SelfCoding
+# MachineLearning / DeepLearning
